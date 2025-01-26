@@ -1,4 +1,3 @@
-package Thread;
 
 class DisplayMessage extends Thread {
     public void run() {

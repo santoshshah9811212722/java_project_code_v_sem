@@ -1,4 +1,3 @@
-package Thread;
 
 class MyThreadRunnable implements Runnable {
     public void run() {

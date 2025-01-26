@@ -1,4 +1,4 @@
-package Thread;
+// package Thread;
 
 class Checkpriority extends Thread {
     public void run() {
