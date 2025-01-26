@@ -1,6 +1,5 @@
 
 //multilevel inheritance using extend and implements
-package Inheritance_all_code;
 
 interface king {
     void eat();

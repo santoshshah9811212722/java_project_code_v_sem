@@ -1,4 +1,3 @@
-package Inheritance_all_code;
 
 //using normal class "extends" them to achieve multileve inheritance.
 class Animal {

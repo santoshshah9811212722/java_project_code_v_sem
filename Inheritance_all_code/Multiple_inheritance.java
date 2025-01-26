@@ -1,6 +1,5 @@
 
 //multiple inheritance using interface that inheritated from normal class using implements keyword.
-package Inheritance_all_code;
 
 interface Flyable {
     void fly();

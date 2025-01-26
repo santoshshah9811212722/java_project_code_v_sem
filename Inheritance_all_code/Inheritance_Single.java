@@ -1,6 +1,5 @@
 
 //single inhertace using normal class extent by other normal class.
-package Inheritance_all_code;
 
 class animal {
     void eat() {

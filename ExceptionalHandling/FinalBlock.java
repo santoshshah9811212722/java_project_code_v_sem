@@ -1,5 +1,5 @@
 //final block used program
-package ExceptionalHandling;
+// package ExceptionalHandling;
 
 import java.util.Scanner;
 

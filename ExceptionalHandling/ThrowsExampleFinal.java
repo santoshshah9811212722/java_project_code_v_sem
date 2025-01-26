@@ -1,6 +1,5 @@
 
 //used exceptional handling all block try,catch,final and throw and throws keyword.
-package ExceptionalHandling;
 
 import java.util.Scanner;
 

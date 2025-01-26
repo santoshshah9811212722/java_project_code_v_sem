@@ -1,7 +1,5 @@
 
 //abstract class it is a part of inhertance using abstraction
-package Inheritance_all_code;
-
 abstract class parent {
     abstract void parents();
 }

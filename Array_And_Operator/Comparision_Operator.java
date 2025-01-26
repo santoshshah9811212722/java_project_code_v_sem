@@ -1,4 +1,4 @@
-package Array_And_Operator;
+// package Array_And_Operator;
 
 import java.util.Scanner;
 

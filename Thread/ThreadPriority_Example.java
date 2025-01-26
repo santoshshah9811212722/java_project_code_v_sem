@@ -1,8 +1,8 @@
-// package Thread;
 
 class Checkpriority extends Thread {
     public void run() {
         System.out.println("checking priority" + Thread.currentThread().getPriority());
+
     }
 
 }

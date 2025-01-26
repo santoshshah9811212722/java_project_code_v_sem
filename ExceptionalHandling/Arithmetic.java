@@ -1,6 +1,6 @@
 //Arithmetic exceptional handling only using try catch block
 
-package ExceptionalHandling;
+// package ExceptionalHandling;
 
 import java.util.Scanner;
 
