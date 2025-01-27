@@ -1,0 +1,3 @@
+hello
+hi
+appending both text in file 
